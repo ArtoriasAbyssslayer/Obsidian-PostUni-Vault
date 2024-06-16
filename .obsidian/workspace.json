@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e5694b4eaf934197",
+        "id": "37403e436c84c36d",
         "type": "tabs",
         "children": [
           {
-            "id": "9b500c3ecdd37eab",
+            "id": "78f1b114d535c2de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker Django - Python - PostgreSQL setup image.md",
+                "file": "NodeJSBackend/JSbasics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker Django - Python - PostgreSQL setup image.md",
+                "file": "NodeJSBackend/JSbasics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker Django - Python - PostgreSQL setup image.md",
+                "file": "NodeJSBackend/JSbasics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker Django - Python - PostgreSQL setup image.md"
+                "file": "NodeJSBackend/JSbasics.md"
               }
             }
           }
@@ -146,27 +146,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f886aeeee94620a",
+  "active": "78f1b114d535c2de",
   "lastOpenFiles": [
-    "SQL/SQL_for_Data_Science.pdf",
-    "SQL_for_Data_Science.pdf",
-    "README.md",
-    "Docker/Docker Apache - PHP setup image.md",
-    "Docker/Docker Django - Python - PostgreSQL setup image.md",
-    "Transfer Learning/Domain Adaptation.md",
-    "Transfer Learning",
-    "RUST/Introduction to Rust.md",
-    "Docker",
-    "SQL/Untitled.md",
-    "RUST/Hello, Cargo.md",
-    "RUST",
-    "Untitled.md",
-    "NoSQL",
-    "SQL",
-    "SDL2Cpp",
-    "NodeJSBackend",
-    "GodotCSharp",
-    "create a link.md",
-    "Welcome.md"
+    "PHP/PHP-Tutorial.md",
+    "NodeJSBackend/JSbasics.md",
+    "NodeJSBackend/slides.pdf",
+    "NodeJSBackend/theory-lectures.pdf",
+    "PHP/PHP-Cheatsheet.md",
+    "SQL/SQL Basics Cheat Sheet.md",
+    "PHP",
+    "Backup/backup-basic.md",
+    "Backup/backup-script-phase-2.md",
+    "Backup/backup-script-phase-1.md",
+    "Backup/backup-script-phase-1.5.md",
+    "Backup/backup-script-basic.md",
+    "Backup/backup-rsync-crontab.md",
+    "Initial Config/Addint Repos for CENTOS.md",
+    "Backup",
+    "Utils/X11 on centos.md",
+    "Initial Config",
+    "Tunning Kernel/Tunning Kernel.md",
+    "Utils",
+    "Tunning Kernel/Max file descriptor.md",
+    "SSH/before_result.md",
+    "Tunning Kernel",
+    "SSH/after_result.md",
+    "SSH/SSH Overview.md",
+    "NTP/NTP_basic.md",
+    "SSH",
+    "High-Availability-ReverseProxy(NGINX)/keepalived-nginx.md",
+    "NTP",
+    "Web Services/LEMP-yum.md",
+    "High-Availability-ReverseProxy(NGINX)",
+    "Web Services/LEMP-source-Ubuntu.md",
+    "Web Services/LEMP-source-CentOS.md",
+    "Web Services/LEMP-apt.md",
+    "Docker/Docker-Guide-tmpfs-Mount.md",
+    "Docker/Docker-Guide-Volume (Storage).md",
+    "Docker/Docker-Guide-Network (Network).md"
   ]
 }
