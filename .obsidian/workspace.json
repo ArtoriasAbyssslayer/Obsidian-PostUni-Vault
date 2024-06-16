@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "8fd63f5d513f605a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5694b4eaf934197",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b500c3ecdd37eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker Django - Python - PostgreSQL setup image.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7aaaf0bb4f5273b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0fa749258d624a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f886aeeee94620a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "055a6115665fa857",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e53f4b03b5118c86",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64deef638568d410",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e3c5387c4f0b2f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff279c3d67d365be",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker/Docker Django - Python - PostgreSQL setup image.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45bc344f40ccbc47",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Docker/Docker Django - Python - PostgreSQL setup image.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b1e52cbbd530521",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e134c88545b37a56",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Docker/Docker Django - Python - PostgreSQL setup image.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2f886aeeee94620a",
+  "lastOpenFiles": [
+    "README.md",
+    "Docker/Docker Apache - PHP setup image.md",
+    "Docker/Docker Django - Python - PostgreSQL setup image.md",
+    "Transfer Learning/Domain Adaptation.md",
+    "Transfer Learning",
+    "RUST/Introduction to Rust.md",
+    "Docker",
+    "SQL/Untitled.md",
+    "RUST/Hello, Cargo.md",
+    "RUST",
+    "Untitled.md",
+    "NoSQL",
+    "SQL",
+    "SDL2Cpp",
+    "NodeJSBackend",
+    "GodotCSharp",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
