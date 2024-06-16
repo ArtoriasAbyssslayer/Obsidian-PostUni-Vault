@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "37403e436c84c36d",
+        "id": "165dbfe616e58363",
         "type": "tabs",
         "children": [
           {
-            "id": "78f1b114d535c2de",
+            "id": "a3942b721ed8e554",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NodeJSBackend/JSbasics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NodeJSBackend/JSbasics.md",
+                "file": "Utils/phonetracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NodeJSBackend/JSbasics.md",
+                "file": "Utils/phonetracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NodeJSBackend/JSbasics.md"
+                "file": "Utils/phonetracker.md"
               }
             }
           }
@@ -146,43 +142,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78f1b114d535c2de",
+  "active": "2f886aeeee94620a",
   "lastOpenFiles": [
-    "PHP/PHP-Tutorial.md",
+    "ComputerVision-ML/TrackingWithOpenCV.ipynb",
+    "ComputerVision-ML/MLP_Classification_MNIST.ipynb",
+    "ComputerVision-ML/introOpenCV.ipynb",
+    "ComputerVision-ML/CVML_workshop24_8.ipynb",
+    "ComputerVision-ML/cvml_live_code_CNN_classification.ipynb",
+    "ComputerVision-ML",
+    "Utils/passcracker.md",
+    "Utils/phonetracker.md",
+    "Utils/nearbyWifiCracking.py.md",
+    "Utils/faceDetection.md",
+    "Utils/convertImage2Sketch.md",
+    "Utils/barcodeGenerator.md",
+    "SDL2Cpp/game.md",
+    "SDL2Cpp/Snakegame.md",
+    "Utils/email_spammer.md",
+    "Utils/ffmpeg flac2mp3.md",
+    "README.md",
+    "SDL2Cpp/MainSnakegame.cpp",
+    "Chaos-SparseGraph.xcf",
+    "Jenkins/Intro.md",
     "NodeJSBackend/JSbasics.md",
+    "Jenkins/Jenkins-Cheat-Sheet-Edureka.pdf",
+    "Jenkins",
+    "Pasted image 20240616172545.png",
     "NodeJSBackend/slides.pdf",
-    "NodeJSBackend/theory-lectures.pdf",
+    "Chaos-SparseGraph.png",
+    "Kubernetes/random-gist.md",
+    "Kubernetes/General Notes - Cheet Sheet.md",
+    "Transfer Learning/Domain Adaptation.md",
+    "PHP/PHP-Tutorial.md",
     "PHP/PHP-Cheatsheet.md",
     "SQL/SQL Basics Cheat Sheet.md",
-    "PHP",
     "Backup/backup-basic.md",
     "Backup/backup-script-phase-2.md",
     "Backup/backup-script-phase-1.md",
     "Backup/backup-script-phase-1.5.md",
     "Backup/backup-script-basic.md",
-    "Backup/backup-rsync-crontab.md",
-    "Initial Config/Addint Repos for CENTOS.md",
-    "Backup",
-    "Utils/X11 on centos.md",
-    "Initial Config",
-    "Tunning Kernel/Tunning Kernel.md",
-    "Utils",
-    "Tunning Kernel/Max file descriptor.md",
-    "SSH/before_result.md",
-    "Tunning Kernel",
-    "SSH/after_result.md",
-    "SSH/SSH Overview.md",
-    "NTP/NTP_basic.md",
-    "SSH",
-    "High-Availability-ReverseProxy(NGINX)/keepalived-nginx.md",
-    "NTP",
-    "Web Services/LEMP-yum.md",
-    "High-Availability-ReverseProxy(NGINX)",
-    "Web Services/LEMP-source-Ubuntu.md",
-    "Web Services/LEMP-source-CentOS.md",
-    "Web Services/LEMP-apt.md",
-    "Docker/Docker-Guide-tmpfs-Mount.md",
-    "Docker/Docker-Guide-Volume (Storage).md",
-    "Docker/Docker-Guide-Network (Network).md"
+    "Backup/backup-rsync-crontab.md"
   ]
 }
